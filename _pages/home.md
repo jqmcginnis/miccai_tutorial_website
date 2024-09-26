@@ -15,8 +15,7 @@ acknowledgements: ""
   <div class="col-xs-12">
   <center><h2>MICCAI 2024 Tutorial on</h2></center>
     <center><h1>Implicit Neural Representations for Medical Imaging>
-        <center><b>Time slot 1</b>: <strike>Sunday 06 October, 08:00 am - 12:30 pm (GMT+1)</strike>, <font color="#76b900"><b><a target="_blank" href="https://www.youtube.com/watch?v=n0p1zz0ZFiY">Live Session Recording</a></b></font></center> 
-        <center><b>Time slot 2</b>: <strike>Sunday 23 August, 6:30 am - 8:00 am (PDT)</strike>, <font color="#76b900"><b><a target="_blank" href="https://www.youtube.com/watch?v=mYD783Z-wb8">Live Session Recording</a></b></font></center>
+        <center><b>Time slot 1</b>:Sunday 06 October, 08:00 am - 12:30 pm (GMT+1), <font color="#76b900"><b><a target="_blank" href="https://www.youtube.com/watch?v=n0p1zz0ZFiY">Live Session Recording</a></b></font></center> 
         <center>ECCV 2020 <font color="#76b900"> <b><a target="_blank" href="https://workshopsandtutorials.eccv2020.eu/papers/category/tutorial-sunday-aug-23/new-frontiers-for-learning-with-limited-labels-or-data/">Microsite</a></b></font>, Pre-recorded talks: Youtube <font color="#76b900"><b><a target="_blank" href="https://www.youtube.com/playlist?list=PLDEjP3Cd-gys9TC1RuboblGzwfsaJ9FxU">Playlist</a></b></font>, Bilibili <font color="#76b900"><b><a target="_blank" href="https://www.bilibili.com/read/cv7268682?share_source=copy_link&share_medium=iphone&bbid=Z34AB836729C35E84416ACBF44A761007D7D&ts=1598042304">Playlist</a></b></font></center>
   </div>
 </div>
@@ -192,13 +191,13 @@ Discover the latest advancements in machine learning tailored for medical imagin
   </div>
 </div>
 
-<div class="row speaker" id="shalini">
+<div class="row speaker" id="mcginnis">
   <div class="col-sm-3 speaker-pic">
-    <a href="https://research.nvidia.com/person/shalini-gupta">
-      <img class="people-pic" src="{{ "/static/img/people/sdm.jpg" | prepend:site.baseurl }}">
+    <a href="https://aim-lab.io/author/julian-mcginnis/">
+      <img class="people-pic" src="{{ "/static/img/people/julian1.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://research.nvidia.com/person/shalini-gupta">Shalini De Mello</a> <a href="https://twitter.com/shalinidemello"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
+      <a href="https://aim-lab.io/author/julian-mcginnis/">Julian McGinnis</a> <a href="https://twitter.com/jqmcginnis"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
       <h6>NVIDIA</h6>
     </div>
   </div>
