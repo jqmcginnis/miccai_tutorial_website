@@ -1,8 +1,8 @@
 ---
 layout: project
-urltitle:  "New Frontiers for Learning with Limited Labels or Data"
-title: "New Frontiers for Learning with Limited Labels or Data"
-categories: eccv2020, tutorial, computer vision, machine learning, self-superised, unsupervised, semi-supervised, limited labels and data
+urltitle:  "MICCAI Tutorial on Implicit Neural Representations for Medical Imaging"
+title: "MICCAI Tutorial on Implicit Neural Representations for Medical Imaging"
+categories: miccai2024, tutorial, computer vision, machine learning, implicit neural representations, medical imaging, neural fields, nerfs
 permalink: /
 favicon: /static/img/eccv-final.png
 bibtex: true
@@ -13,9 +13,9 @@ acknowledgements: ""
 <br>
 <div class="row">
   <div class="col-xs-12">
-  <center><h2>ECCV 2020 Virtual Tutorial on</h2></center>
-    <center><h1>New Frontiers for Learning with Limited Labels or Data</h1></center>
-        <center><b>Time slot 1</b>: <strike>Saturday 22 August, 5:30 pm - 7:00 pm (PDT)</strike>, <font color="#76b900"><b><a target="_blank" href="https://www.youtube.com/watch?v=n0p1zz0ZFiY">Live Session Recording</a></b></font></center> 
+  <center><h2>MICCAI 2024 Tutorial on</h2></center>
+    <center><h1>Implicit Neural Representations for Medical Imaging>
+        <center><b>Time slot 1</b>: <strike>Sunday 06 October, 08:00 am - 12:30 pm (GMT+1)</strike>, <font color="#76b900"><b><a target="_blank" href="https://www.youtube.com/watch?v=n0p1zz0ZFiY">Live Session Recording</a></b></font></center> 
         <center><b>Time slot 2</b>: <strike>Sunday 23 August, 6:30 am - 8:00 am (PDT)</strike>, <font color="#76b900"><b><a target="_blank" href="https://www.youtube.com/watch?v=mYD783Z-wb8">Live Session Recording</a></b></font></center>
         <center>ECCV 2020 <font color="#76b900"> <b><a target="_blank" href="https://workshopsandtutorials.eccv2020.eu/papers/category/tutorial-sunday-aug-23/new-frontiers-for-learning-with-limited-labels-or-data/">Microsite</a></b></font>, Pre-recorded talks: Youtube <font color="#76b900"><b><a target="_blank" href="https://www.youtube.com/playlist?list=PLDEjP3Cd-gys9TC1RuboblGzwfsaJ9FxU">Playlist</a></b></font>, Bilibili <font color="#76b900"><b><a target="_blank" href="https://www.bilibili.com/read/cv7268682?share_source=copy_link&share_medium=iphone&bbid=Z34AB836729C35E84416ACBF44A761007D7D&ts=1598042304">Playlist</a></b></font></center>
   </div>
