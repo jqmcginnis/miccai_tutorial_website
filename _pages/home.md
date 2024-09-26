@@ -41,7 +41,40 @@ Discover the latest advancements in machine learning tailored for medical imagin
         <a href="https://jelmerwolterink.nl/">Jelmer Wolterink</a>
         <h6>University of Twente</h6>
       </div>
+    </div><div class="col-xs-2" id="sifei">
+  <a href="https://jelmerwolterink.nl/">
+    <img class="people-pic" src="{{ "/static/img/people/jw.jpeg" | prepend:site.baseurl }}">
+  </a>
+  <div class="people-name">
+    <a href="https://jelmerwolterink.nl/">Jelmer Wolterink</a>
+    <h6>University of Twente</h6>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+
+    <div class="col-xs-2" id="jonathan">
+      <a href="https://jonathan-schwarz.github.io/">
+        <img class="people-pic" src="{{ "/static/img/people/jonathan.jpeg" | prepend:site.baseurl }}">
+      </a>
+      <div class="people-name">
+        <a href="https://jonathan-schwarz.github.io/">Jonathan Richard Schwarz</a>
+        <h6>Harvard University, Safe Sign Technologies</h6>
+      </div>
     </div>
+
+    <div class="col-xs-2" id="jonathan">
+      <a href="https://jonathan-schwarz.github.io/">
+        <img class="people-pic" src="{{ "/static/img/people/jonathan.jpeg" | prepend:site.baseurl }}">
+      </a>
+      <div class="people-name">
+        <a href="https://jonathan-schwarz.github.io/">Jonathan Richard Schwarz</a>
+        <h6>Harvard University, Safe Sign Technologies</h6>
+      </div>
+    </div>
+
+  </div>
+</div>
 
 
 
