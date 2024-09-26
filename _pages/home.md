@@ -163,149 +163,93 @@ Discover the latest advancements in machine learning tailored for medical imagin
   </div>
 </div>
 
-<div class="row speaker" id="sifei">
+<div class="row speaker" id="suprosanna">
   <div class="col-sm-3 speaker-pic">
-    <a href="https://www.sifeiliu.net/">
-      <img class="people-pic" src="{{ "/static/img/people/sl.jpg" | prepend:site.baseurl }}">
+    <a href="https://www.uzh.ch/cmsssl/en.html">
+      <img class="people-pic" src="{{ "/static/img/people/suprosanna.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.sifeiliu.net/">Sifei Liu</a>
-      <a href="https://twitter.com/SifeiL"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
-      <h6>NVIDIA</h6>
+      <a href="https://www.uzh.ch/cmsssl/en.html">Suprosanna Shit</a>
+      <h6>University of Zurich</h6>
     </div>
   </div>
   <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
-Sifei Liu is a Senior Research Scientist in Learning and Perception Research group, NVIDIA. She obtained her Ph.D. at the University of California Merced, Department of EECS, advised by Professor Ming-Hsuan Yang. Her research interests are in computer vision (low-level vision, semantic segmentation and 3D scene understanding), deep learning (graph-structured modules, self-supervised learning), and the combination of both. She worked as an intern student in Baidu IDL from 2013 to 2014, multimedia lab in CUHK in 2015, and NVIDIA research in 2017. She is also the recipient of the Baidu Graduate Fellowship in 2013 and the Rising Star EECS in 2019. She has co-organized the Learning Representations via Graph-structured Networks tutorial in conjunction with CVPR 2019 and 2020.
+    Suprosanna Shit is a post-doc at the University of Zurich. His current research focuses on applications of INRs and patient-specific solutions and has been published at MICCAI’23.
     </p>
   </div>
 </div>
 
-<div class="row speaker" id="zhiding">
+<div class="row speaker" id="sideri">
   <div class="col-sm-3 speaker-pic">
-    <a href="https://www.sifeiliu.net/">
-      <img class="people-pic" src="{{ "/static/img/people/zy.jpg" | prepend:site.baseurl }}">
+    <a href="https://www.tum.de/en">
+      <img class="people-pic" src="{{ "/static/img/people/sideri.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://chrisding.github.io/index.htm">Zhiding Yu</a>
-      <a href="https://twitter.com/ZhidingYu"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
-      <h6>NVIDIA</h6>
+      <a href="https://www.tum.de/en">Vasiliki Sideri-Lampretsa</a>
+      <h6>Technical University of Munich</h6>
     </div>
   </div>
   <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
-Zhiding Yu is a Senior Research Scientist in the Machine Learning Research group, NVIDIA. He obtained a Ph.D. in ECE from Carnegie Mellon University in 2017 and an M.Phil. in ECE from The Hong Kong University of Science and Technology in 2012. His research interests include deep representation learning, weakly/self-supervised learning, transfer learning and deep structured prediction, along with their applications to vision and robotics problems. He conducted internships at Adobe Research, Microsoft Research and Mitsubishi Electric Research Laboratories in 2013, 2015 and 2016. He was twice the recipient of the HKTIIT Post-Graduate Excellence Scholarships in 2010 and 2012. He is a co-author of the best student paper at ISCSLP 2014, an author of the best paper award at WACV 2015, and a winner of the WAD Challenge 2018. His work on deep facial expression recognition at Microsoft Research won first runner-up at the EmotiW-SFEW Challenge 2015 and was integrated into the Emotion Recognition API under Microsoft Azure Cognitive Services.
+    Vasiliki Sideri-Lampretsa is a Ph.D. student at TUM. She has prior experience as a tutorial speaker at Learn2Reg at MICCAI’23. Her current interest revolves around INRs for registration.
     </p>
   </div>
 </div>
 
-<div class="row speaker" id="pavlo">
+<div class="row speaker" id="spieker">
   <div class="col-sm-3 speaker-pic">
-    <a href="https://research.nvidia.com/person/pavlo-molchanov">
-      <img class="people-pic" src="{{ "/static/img/people/pm.jpg" | prepend:site.baseurl }}">
+    <a href="https://www.helmholtz-munich.de/en/index.html">
+      <img class="people-pic" src="{{ "/static/img/people/spieker.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://research.nvidia.com/person/pavlo-molchanov">Pavlo Molchanov</a> <a href="https://twitter.com/PavloMolchanov"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
-      <h6>NVIDIA</h6>
+      <a href="https://www.helmholtz-munich.de/en/index.html">Veronika Spieker</a>
+      <h6>Helmholtz Munich and Technical University of Munich</h6>
     </div>
   </div>
   <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
-Pavlo Molchanov is a Principal Research Scientist at Learning and Perception Research team, NVIDIA. He obtained his PhD from the Tampere University of Technology, Finland in the area of signal processing in 2014. His dissertation was focused on designing automatic target recognition systems for radars. His research is focused on methods for neural network acceleration, and designing novel systems for human-computer interaction and human understanding. In the area of network acceleration, he is interested in neural network pruning methods and conditional inference. For human understanding, he is working on landmark estimation, gesture recognition, hand pose estimation. He received the EuRAD best paper award in 2011 and EuRAD young engineer award in 2013.
+    Veronika Spieker is a Ph.D. student at Helmholtz Munich and TUM. Her current research focuses on INRs for k-space reconstruction.
     </p>
   </div>
 </div>
 
-<div class="row speaker" id="varun">
+<div class="row speaker" id="nil">
   <div class="col-sm-3 speaker-pic">
-    <a href="https://varunjampani.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/vj.jpg" | prepend:site.baseurl }}">
+    <a href="https://www.tum.de/en">
+      <img class="people-pic" src="{{ "/static/img/people/nil.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://varunjampani.github.io/">Varun Jampani</a>
-      <h6>Google Research</h6>
+      <a href="https://www.tum.de/en">Nil Stolt-Anso</a>
+      <h6>Technical University of Munich</h6>
     </div>
   </div>
   <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
-    Varun Jampani is a Research Scientist at Google Research in Cambridge, US. Prior to that, he was a Research Scientist at NVIDIA. He works in the areas of machine learning and computer vision and his main research interests include content-adaptive neural networks, self-supervised visual discovery and novel view synthesis. He obtained his PhD with highest honors at Max Planck Institute for Intelligent Systems (MPI) and the University of Tübingen in Tübingen, Germany. He obtained his BTech and MS from the International Institute of Information Technology, Hyderabad (IIIT-H), India, where he was a gold medalist. He was an outstanding reviewer at CVPR'19, CVPR'18, CVPR'17 and ECCV'16. His work on <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Su_SPLATNet_Sparse_Lattice_CVPR_2018_paper.pdf">'SplatNet'</a> has received 'Best Paper Honorable Mention' award at CVPR'18.
+    Nil Stolt-Anso is a PhD student at TUM. His current research focuses on the application of Neural Implicit Segmentation Functions (NISF) for cardiac imaging and other applications.
+    </p>
+  </div>
+</div> 
+
+<div class="row speaker" id="maik">
+  <div class="col-sm-3 speaker-pic">
+    <a href="https://www.tum.de/en">
+      <img class="people-pic" src="{{ "/static/img/people/maik.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.tum.de/en">Maik Dannecker</a>
+      <h6>Technical University of Munich</h6>
+    </div>
+  </div>
+  <div class="col-md-9">
+    <b>Biography</b>
+    <p class="speaker-bio">
+    Maik Dannecker is a PhD student at TUM. His current research focuses on the application of INRs for fetal image reconstruction, and is submitted to MICCAI’24.
     </p>
   </div>
 </div>
 
-<div class="row speaker" id="arash">
-  <div class="col-sm-3 speaker-pic">
-    <a href="http://latentspace.cc/arash_vahdat/">
-      <img class="people-pic" src="{{ "/static/img/people/av.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://latentspace.cc/arash_vahdat/">Arash Vahdat</a> <a href="https://twitter.com/ArashVahdat"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
-      <h6>NVIDIA</h6>
-    </div>
-  </div>
-  <div class="col-md-9">
-    <b>Biography</b>
-    <p class="speaker-bio">
-    Arash Vahdat is a Senior Research Scientist at NVIDIA specializing in machine learning and computer vision. Before joining NVIDIA, he was a research scientist at D-Wave Systems where he worked on weakly supervised learning from noisy labeled data and deep generative learning with discrete latent variable models. Prior to D-Wave, Arash was a Ph.D. student under Greg Mori’s supervision working on latent variable frameworks for visual analysis, then a research faculty member at Simon Fraser University, where he led several research projects at the intersection of deep learning and video analysis. His area of research includes generative learning, weakly-supervised learning, neural architecture search, and probabilistic deep learning.
-    </p>
-  </div>
-</div>
-
-<div class="row speaker" id="yujia">
-  <div class="col-sm-3 speaker-pic">
-    <a href="https://yjhuangcd.github.io/">
-      <img class="people-pic" src="{{ "/static/img/people/yh.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://yjhuangcd.github.io/">Yujia Huang</a> <a href="https://twitter.com/YujiaHuangC"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
-      <h6>Caltech</h6>
-    </div>
-  </div>
-  <div class="col-md-9">
-    <b>Biography</b>
-    <p class="speaker-bio">
-    Yujia Huang is a PhD candidate in Electrical Engineering at Caltech, advised by Prof Anima Anandkumar. She obtained her bachelor’s degree from Zhejiang University, China in 2017. Her research interests are in generative models, uncertainty quantification and biologically inspired machine learning, with an emphasis on vision tasks. She is an intern in the Machine Learning Research gourp Research, NVIDIA during the summer of 2020.
-    </p>
-  </div>
-</div>
-
-<div class="row speaker" id="anima">
-  <div class="col-sm-3 speaker-pic">
-    <a href="http://tensorlab.cms.caltech.edu/users/anima/">
-      <img class="people-pic" src="{{ "/static/img/people/aa.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://tensorlab.cms.caltech.edu/users/anima/">Animashree Anandkumar</a> <a href="https://twitter.com/AnimaAnandkumar"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
-      <h6>NVIDIA and Caltech</h6>
-    </div>
-  </div>
-  <div class="col-md-9">
-    <b>Biography</b>
-    <p class="speaker-bio">
-    Anima Anandkumar is the Director of Machine Learning Research at NVIDIA and Bren Professor at Caltech. She was previously a Principal Scientist at Amazon Web Services. She has received several honors such as Alfred. P. Sloan Fellowship, NSF Career Award, Young investigator awards from DoD, and Faculty Fellowships from Microsoft, Google and Adobe. She is part of the World Economic Forum's Expert Network. She is passionate about designing principled AI algorithms and applying them in interdisciplinary applications.  Her research interests include tensor methods, optimization, and large-scale learning.
-    </p>
-  </div>
-</div>
-
-<div class="row speaker" id="jan">
-  <div class="col-sm-3 speaker-pic">
-    <a href="http://jankautz.com/">
-      <img class="people-pic" src="{{ "/static/img/people/jk.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="http://jankautz.com/">Jan Kautz</a> <a href="https://twitter.com/jankautz"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
-      <h6>NVIDIA</h6>
-    </div>
-  </div>
-  <div class="col-md-9">
-    <b>Biography</b>
-    <p class="speaker-bio">
-	Jan Kautz is Vice President of Learning and Perception Research at NVIDIA. Jan and his team pursue fundamental research in the areas of computer vision and deep learning, including visual perception, geometric vision, generative models, and efficient deep learning. Before joining NVIDIA in 2013, Jan was a tenured faculty member at University College London. He holds a BSc in Computer Science from the University of Erlangen-Nürnberg (1999), an MMath from the University of Waterloo (1999), received his PhD from the Max-Planck-Institut für Informatik (2003), and worked as a post-doctoral researcher at the Massachusetts Institute of Technology (2003-2006).
-    </p>
-  </div>
-</div>
-<br>
