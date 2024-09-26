@@ -15,8 +15,7 @@ acknowledgements: ""
   <div class="col-xs-12">
   <center><h2>MICCAI 2024 Tutorial on</h2></center>
     <center><h1>Implicit Neural Representations for Medical Imaging>
-        <center><b>Time slot 1</b>:Sunday 06 October, 08:00 am - 12:30 pm (GMT+1), <font color="#76b900"><b><a target="_blank" href="https://www.youtube.com/watch?v=n0p1zz0ZFiY">Live Session Recording</a></b></font></center> 
-        <center>ECCV 2020 <font color="#76b900"> <b><a target="_blank" href="https://workshopsandtutorials.eccv2020.eu/papers/category/tutorial-sunday-aug-23/new-frontiers-for-learning-with-limited-labels-or-data/">Microsite</a></b></font>, Pre-recorded talks: Youtube <font color="#76b900"><b><a target="_blank" href="https://www.youtube.com/playlist?list=PLDEjP3Cd-gys9TC1RuboblGzwfsaJ9FxU">Playlist</a></b></font>, Bilibili <font color="#76b900"><b><a target="_blank" href="https://www.bilibili.com/read/cv7268682?share_source=copy_link&share_medium=iphone&bbid=Z34AB836729C35E84416ACBF44A761007D7D&ts=1598042304">Playlist</a></b></font></center>
+        <center>Sunday 06 October, 08:00 am - 12:30 pm (GMT+1), <font color="#76b900"></font></center> 
   </div>
 </div>
 <br>
@@ -34,16 +33,6 @@ Discover the latest advancements in machine learning tailored for medical imagin
 <div class="row">
   <div class="col-xs-12">
 
-  <div class="row">
-    <div class="col-xs-2" id="varun">
-      <a href="https://varunjampani.github.io/">
-        <img class="people-pic" src="{{ "/static/img/people/vj.jpg" | prepend:site.baseurl }}">
-      </a>
-      <div class="people-name">
-        <a href="https://varunjampani.github.io/">Varun Jampani</a>
-        <h6>Google Research</h6>
-      </div>
-    </div>
     <div class="col-xs-2" id="sifei">
       <a href="https://www.sifeiliu.net/">
         <img class="people-pic" src="{{ "/static/img/people/sl.jpg" | prepend:site.baseurl }}">
@@ -53,43 +42,8 @@ Discover the latest advancements in machine learning tailored for medical imagin
         <h6>NVIDIA </h6>
       </div>
     </div>
-    <div class="col-xs-2" id="arash">
-      <a href="http://latentspace.cc/arash_vahdat/">
-        <img class="people-pic" src="{{ "/static/img/people/av.jpg" | prepend:site.baseurl }}">
-      </a>
-      <div class="people-name">
-         <a href="http://latentspace.cc/arash_vahdat/">Arash Vahdat</a>
-        <h6>NVIDIA</h6>
-      </div>
-    </div>
-    <div class="col-xs-2" id="zhiding">
-      <a href="https://chrisding.github.io/index.htm">
-        <img class="people-pic" src="{{ "/static/img/people/zy.jpg" | prepend:site.baseurl }}">
-      </a>
-      <div class="people-name">
-        <a href="https://chrisding.github.io/index.htm">Zhiding Yu</a>
-        <h6>NVIDIA</h6>
-      </div>
-    </div>
-    <div class="col-xs-2" id="Pavlo">
-      <a href="https://research.nvidia.com/person/pavlo-molchanov">
-        <img class="people-pic" src="{{ "/static/img/people/pm.jpg" | prepend:site.baseurl }}">
-      </a>
-      <div class="people-name">
-        <a href="https://research.nvidia.com/person/pavlo-molchanov">Pavlo Molchanov</a>
-        <h6>NVIDIA</h6>
-      </div>
-    </div>
-    <div class="col-xs-2" id="yujia">
-      <a href="https://yjhuangcd.github.io/">
-        <img class="people-pic" src="{{ "/static/img/people/yh.jpg" | prepend:site.baseurl }}">
-      </a>
-      <div class="people-name" >
-        <a href="https://yjhuangcd.github.io/">Yujia Huang</a>
-        <h6>Caltech</h6>
-      </div>
-    </div>
-  </div>
+
+
 
 <br id="talks">
 
@@ -198,13 +152,13 @@ Discover the latest advancements in machine learning tailored for medical imagin
     </a>
     <div class="people-name">
       <a href="https://aim-lab.io/author/julian-mcginnis/">Julian McGinnis</a> <a href="https://twitter.com/jqmcginnis"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
-      <h6>NVIDIA</h6>
+      <h6>Technical University of Munich</h6>
     </div>
   </div>
   <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
-    Shalini De Mello is a Principal Research Scientist in the Learning and Percpetion Research group, NVIDIA. Her research interests are in computer vision, machine learning, learning with limited data or labels (supervised-supervised, few-shot and with synthetic data) and human-computer interaction (gaze and head pose estimation). Her research has lead to the development of NVIDIA’s innovative <a href="https://www.nvidia.com/en-us/self-driving-cars/drive-ix/">DriveIX</a> product for smart AI-based automotive interfaces. She received doctoral and master’s degrees in Electrical and Computer Engineering from the University of Texas at Austin in 2008 and 2004, respectively. She received the outstanding reviewer award for ICCV 2019, and won first place in the OpenEDS 2019 and Hands 2015 challenges.
+    Julian McGinnis is a PhD student at the Department of Neurology and the Institute of Artificial Intelligence in Medicine at the Technical University of Munich (TUM). His research is centered on the intersection of medicine, neuroscience, and machine learning, specifically focusing on Multiple Sclerosis (MS) and the integrated analysis of the brain and spinal cord. His interests revolve around implicit neural representations and compact latent representations for various downstream tasks. These tasks include generative modeling, image reconstruction, and lesion segmentation. 
     </p>
   </div>
 </div>
