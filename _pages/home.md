@@ -15,7 +15,7 @@ acknowledgements: ""
   <div class="col-xs-12">
   <center><h2>MICCAI 2024 Tutorial on</h2></center>
     <center><h1>Implicit Neural Representations for Medical Imaging>
-        <center>Sunday 06 October, 08:00 am - 12:30 pm (GMT+1), <font color="#76b900"></font></center> 
+        <center>Sunday 06 October, 08:00 am - 12:30 pm (GMT+1)<font color="#76b900"></font></center> 
   </div>
 </div>
 <br>
@@ -34,12 +34,12 @@ Discover the latest advancements in machine learning tailored for medical imagin
   <div class="col-xs-12">
 
     <div class="col-xs-2" id="sifei">
-      <a href="https://www.sifeiliu.net/">
-        <img class="people-pic" src="{{ "/static/img/people/sl.jpg" | prepend:site.baseurl }}">
+      <a href="https://jelmerwolterink.nl/">
+        <img class="people-pic" src="{{ "/static/img/people/jw.jpeg" | prepend:site.baseurl }}">
       </a>
       <div class="people-name">
-        <a href="https://www.sifeiliu.net/">Sifei Liu</a>
-        <h6>NVIDIA </h6>
+        <a href="https://jelmerwolterink.nl/">Jelmer Wolterink</a>
+        <h6>University of Twente</h6>
       </div>
     </div>
 
