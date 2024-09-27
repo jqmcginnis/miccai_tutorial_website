@@ -147,7 +147,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
   </div>
 </div>
 
-<div class="row speaker" id="mcginnis">
+<div class="row speaker" id="julian">
   <div class="col-sm-3 speaker-pic">
     <a href="https://aim-lab.io/author/julian-mcginnis/">
       <img class="people-pic" src="{{ "/static/img/people/julian.png" | prepend:site.baseurl }}">
@@ -165,38 +165,20 @@ Discover the latest advancements in machine learning tailored for medical imagin
   </div>
 </div>
 
-<div class="row speaker" id="suprosanna">
-  <div class="col-sm-3 speaker-pic">
-    <a href="https://www.uzh.ch/cmsssl/en.html">
-      <img class="people-pic" src="{{ "/static/img/people/suprosanna.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://www.uzh.ch/cmsssl/en.html">Suprosanna Shit</a>
-      <h6>University of Zurich</h6>
-    </div>
-  </div>
-  <div class="col-md-9">
-    <b>Biography</b>
-    <p class="speaker-bio">
-    I am currently a postdoctoral researcher at the University of Zürich (UZH) and an associate researcher at the ETH AI Center. My primary research focuses on medical imaging applications using neural implicit representation. I am also interested in extracting efficient and meaningful representations from the image domain for topology and graph domain processing.
-    </p>
-  </div>
-</div>
-
-<div class="row speaker" id="sideri">
+<div class="row speaker" id="nil">
   <div class="col-sm-3 speaker-pic">
     <a href="https://www.tum.de/en">
-      <img class="people-pic" src="{{ "/static/img/people/vasiliki.jpg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/nil.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.tum.de/en">Vasiliki Sideri-Lampretsa</a>
+      <a href="https://www.tum.de/en">Nil Stolt-Anso</a> <a href="https://twitter.com/NilStoltAnso"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
       <h6>Technical University of Munich</h6>
     </div>
   </div>
   <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
-    Vasiliki Sideri-Lampretsa is a Ph.D. student at the Institute for Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). She received her Diploma in Electrical and Computer Engineering at Aristotle University of Thessaloniki and her Master’s degree in Computer Science at TUM. She was a research assistant at the Interdisciplinary Research Lab (IFL) at TUM, where she also conducted her Master’s thesis. During her Master’s thesis, she focused on employing deep learning to tackle the inverse problem of predicting the speed of sound using ultrasound raw channel data aquired from simulations. Currently, her research interest lies in the field of machine learning in medical imaging, particularly in the fields of feature representation and unsupervised learning.
+    Nil Stolt-Ansó is a PhD student at the chair for Artificial Intelligence in Medicine and a member of the Munich Center for Machine Learning (MCML). He studied Artificial Intelligence with a focus on Machine Learning at the University of Amsterdam (UvA), receiving his M.Sc. in 2020. Prior to starting his PhD, Nil worked in the medical imaging industry, focusing on topics such as blood vessel segmentation, myocardial tissue tracking, and cardiac phase modelling. His current interests concern the application of geometric deep learning to imaging tasks.
     </p>
   </div>
 </div>
@@ -207,7 +189,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
       <img class="people-pic" src="{{ "/static/img/people/veronika.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.helmholtz-munich.de/en/index.html">Veronika Spieker</a>
+      <a href="https://www.helmholtz-munich.de/en/index.html">Veronika Spieker</a> <a href="https://twitter.com/spieker_vj"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
       <h6>Helmholtz Munich and Technical University of Munich</h6>
     </div>
   </div>
@@ -219,23 +201,23 @@ Discover the latest advancements in machine learning tailored for medical imagin
   </div>
 </div>
 
-<div class="row speaker" id="nil">
+<div class="row speaker" id="suprosanna">
   <div class="col-sm-3 speaker-pic">
-    <a href="https://www.tum.de/en">
-      <img class="people-pic" src="{{ "/static/img/people/nil.jpg" | prepend:site.baseurl }}">
+    <a href="https://www.uzh.ch/cmsssl/en.html">
+      <img class="people-pic" src="{{ "/static/img/people/suprosanna.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://www.tum.de/en">Nil Stolt-Anso</a>
-      <h6>Technical University of Munich</h6>
+      <a href="https://www.uzh.ch/cmsssl/en.html">Suprosanna Shit</a> <a href="https://twitter.com/supro_s"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
+      <h6>University of Zurich</h6>
     </div>
   </div>
   <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
-    Nil Stolt-Ansó is a PhD student at the chair for Artificial Intelligence in Medicine and a member of the Munich Center for Machine Learning (MCML). He studied Artificial Intelligence with a focus on Machine Learning at the University of Amsterdam (UvA), receiving his M.Sc. in 2020. Prior to starting his PhD, Nil worked in the medical imaging industry, focusing on topics such as blood vessel segmentation, myocardial tissue tracking, and cardiac phase modelling. His current interests concern the application of geometric deep learning to imaging tasks.
+    I am currently a postdoctoral researcher at the University of Zürich (UZH) and an associate researcher at the ETH AI Center. My primary research focuses on medical imaging applications using neural implicit representation. I am also interested in extracting efficient and meaningful representations from the image domain for topology and graph domain processing.
     </p>
   </div>
-</div> 
+</div>
 
 <div class="row speaker" id="maik">
   <div class="col-sm-3 speaker-pic">
@@ -254,4 +236,23 @@ Discover the latest advancements in machine learning tailored for medical imagin
     </p>
   </div>
 </div>
+
+<div class="row speaker" id="sideri">
+  <div class="col-sm-3 speaker-pic">
+    <a href="https://www.tum.de/en">
+      <img class="people-pic" src="{{ "/static/img/people/vasiliki.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://www.tum.de/en">Vasiliki Sideri-Lampretsa</a> <a href="https://twitter.com/SideriLampretsa"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
+      <h6>Technical University of Munich</h6>
+    </div>
+  </div>
+  <div class="col-md-9">
+    <b>Biography</b>
+    <p class="speaker-bio">
+    Vasiliki Sideri-Lampretsa is a Ph.D. student at the Institute for Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). She received her Diploma in Electrical and Computer Engineering at Aristotle University of Thessaloniki and her Master’s degree in Computer Science at TUM. She was a research assistant at the Interdisciplinary Research Lab (IFL) at TUM, where she also conducted her Master’s thesis. During her Master’s thesis, she focused on employing deep learning to tackle the inverse problem of predicting the speed of sound using ultrasound raw channel data aquired from simulations. Currently, her research interest lies in the field of machine learning in medical imaging, particularly in the fields of feature representation and unsupervised learning.
+    </p>
+  </div>
+</div>
+
 
