@@ -32,7 +32,6 @@ Discover the latest advancements in machine learning tailored for medical imagin
 </div>
 <div class="row">
   <div class="col-xs-12">
-
     <div class="col-xs-2" id="sifei">
       <a href="https://jelmerwolterink.nl/">
         <img class="people-pic" src="{{ "/static/img/people/jw.jpeg" | prepend:site.baseurl }}">
@@ -41,28 +40,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
         <a href="https://jelmerwolterink.nl/">Jelmer Wolterink</a>
         <h6>University of Twente</h6>
       </div>
-    </div><div class="col-xs-2" id="sifei">
-  <a href="https://jelmerwolterink.nl/">
-    <img class="people-pic" src="{{ "/static/img/people/jw.jpeg" | prepend:site.baseurl }}">
-  </a>
-  <div class="people-name">
-    <a href="https://jelmerwolterink.nl/">Jelmer Wolterink</a>
-    <h6>University of Twente</h6>
-  </div>
-</div>
-<div class="row">
-  <div class="col-xs-12">
-
-    <div class="col-xs-2" id="jonathan">
-      <a href="https://jonathan-schwarz.github.io/">
-        <img class="people-pic" src="{{ "/static/img/people/jonathan.jpeg" | prepend:site.baseurl }}">
-      </a>
-      <div class="people-name">
-        <a href="https://jonathan-schwarz.github.io/">Jonathan Richard Schwarz</a>
-        <h6>Harvard University, Safe Sign Technologies</h6>
-      </div>
     </div>
-
     <div class="col-xs-2" id="jonathan">
       <a href="https://jonathan-schwarz.github.io/">
         <img class="people-pic" src="{{ "/static/img/people/jonathan.jpeg" | prepend:site.baseurl }}">
@@ -75,8 +53,6 @@ Discover the latest advancements in machine learning tailored for medical imagin
 
   </div>
 </div>
-
-
 
 <br id="talks">
 
@@ -93,59 +69,70 @@ Discover the latest advancements in machine learning tailored for medical imagin
       </thead>
       <tbody>
         <tr>
-            <td>Introduction</td>
-            <td><a href="https://research.nvidia.com/person/shalini-gupta">Shalini De Mello</a></td>
-            <td><strike>22 Aug, 5:30 pm (PDT)</strike></td>
+            <td>Introduction to INRs</td>
+            <td><a href="https://aim-lab.io/author/julian-mcginnis/">Julian McGinnis</a></td>
+            <td>08:00 - 08:40</td>
         </tr>
         <tr>
-            <td><b>Self-supervised Learning</b></td>
+            <td>Practical Coding Tutorial - how to train your first INR</td>
+            <td><a href="https://aim-lab.io/author/nil-stolt-anso/">Nil Stolt-Ansó</a></td>
+            <td>08:40 - 09:20</td>
+        </tr>
+        <tr>
+            <td>In-depth lecture of selected applications of INR in medical imaging</td>
+            <td><a href="https://people.utwente.nl/j.m.wolterink">Jelmer Wolterink</a></td>
+            <td>09:20 - 10:00</td>
+        </tr>
+        <tr>
+            <td><b>Coffee Break</b></td>
             <td> </td>
+            <td>10:00 - 10:30</td>
+        </tr>
+        <tr>
+            <td>An overview of INRs applications</td>
             <td> </td>
+            <td>10:30 - 11:00</td>
         </tr>
         <tr>
-            <td>Self-Supervised Part and Viewpoint Discovery from Image Collections</td>
-            <td><a href="https://varunjampani.github.io/">Varun Jampani</a></td>
-            <td><strike>22 Aug, 5:30 - 6:00 pm (PDT)</strike></td>
+            <td>Veronika Spieker</td>
+            <td><a href="https://compai-lab.github.io/author/veronika-spieker/">Veronika Spieker</a></td>
+            <td>10:30 - 10:45</td>
         </tr>
         <tr>
-            <td>Learning Visual Correspondences across Instances and Video Frames</td>
-            <td><a href="https://www.sifeiliu.net/">Sifei Liu</a></td>
-            <td><strike>22 Aug, 6:00 - 6:30 pm (PDT)</strike></td>
+            <td>Suprosanna Shit</td>
+            <td><a href="https://www.dqbm.uzh.ch/en/research/menze/team/team-supro.html">Suprosanna Shit</a></td>
+            <td>10:45 - 11:00</td>
         </tr>
         <tr>
-            <td><b>Imperfect Labels</b></td>
+            <td>Meta-Learning, Compression and Functa for INR research</td>
+            <td><a href="https://jonathan-schwarz.github.io/">Jonathan Richard Schwarz</a></td>
+            <td>11:00 - 11:50</td>
+        </tr>
+        <tr>
+            <td><b>INR Conditioning, Frameworks and Future Research</b></td>
             <td> </td>
+            <td>11:50 - 12:30</td>
+        </tr>
+        <tr>
+            <td>Conditioning INR and applications to atlas generation</td>
+            <td><a href="https://www.kiinformatik.mri.tum.de/de/dannecker-maik">Maik Dannecker</a></td>
+            <td>11:50 - 12:05</td>
+        </tr>
+        <tr>
+            <td>Nerfstudio and Gaussian Splatting</td>
+            <td><a href="https://aim-lab.io/author/vasiliki-sideri-lampretsa/">Vasiliki Sideri-Lampretsa</a></td>
+            <td>12:05 - 12:20</td>
+        </tr>
+        <tr>
+            <td>Future Research and Concluding Remarks</td>
             <td> </td>
-        </tr>
-        <tr>
-            <td>Limitless Labels in a Labelless World: Weak Supervision with Noisy Labels</td>
-            <td><a href="http://latentspace.cc/arash_vahdat/">Arash Vahdat</a></td>
-            <td><strike>22 Aug, 6:30 - 7:00 pm (PDT)</strike></td>
-        </tr>
-        <tr>
-            <td>Learning with Imperfect Labels and Visual Data</td>
-            <td><a href="https://chrisding.github.io/index.htm">Zhiding Yu</a></td>
-            <td><strike>23 Aug, 6:30 - 7:00 am (PDT)</strike></td>
-        </tr>
-        <tr>
-            <td><b>Inverting Neural Networks</b></td>
-            <td> </td>
-            <td> </td>
-        </tr>
-        <tr>
-          <td>Inverting Neural Networks for Data-free Knowledge Transfer</td>
-          <td><a href="https://research.nvidia.com/person/pavlo-molchanov">Pavlo Molchanov</a></td>
-          <td><strike>23 Aug, 7:00 - 7:30 am (PDT)</strike></td>
-        </tr>
-        <tr>
-          <td>Learning Efficiently with Biologically Inspired Feedback</td>
-          <td><a href="https://yjhuangcd.github.io/">Yujia Huang</a></td>
-          <td><strike>23 Aug, 7:30 - 8:00 am (PDT)</strike></td>
+            <td>12:20 - 12:30</td>
         </tr>
       </tbody>
     </table>
   </div>
 </div>
+
 
 <br id="organizers">
 
@@ -186,7 +173,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
   <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
-    Suprosanna Shit is a post-doc at the University of Zurich. His current research focuses on applications of INRs and patient-specific solutions and has been published at MICCAI’23.
+    I am currently a postdoctoral researcher at the University of Zürich (UZH) and an associate researcher at the ETH AI Center. My primary research focuses on medical imaging applications using neural implicit representation. I am also interested in extracting efficient and meaningful representations from the image domain for topology and graph domain processing.
     </p>
   </div>
 </div>
@@ -194,7 +181,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
 <div class="row speaker" id="sideri">
   <div class="col-sm-3 speaker-pic">
     <a href="https://www.tum.de/en">
-      <img class="people-pic" src="{{ "/static/img/people/sideri.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/vasiliki.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.tum.de/en">Vasiliki Sideri-Lampretsa</a>
@@ -204,7 +191,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
   <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
-    Vasiliki Sideri-Lampretsa is a Ph.D. student at TUM. She has prior experience as a tutorial speaker at Learn2Reg at MICCAI’23. Her current interest revolves around INRs for registration.
+    Vasiliki Sideri-Lampretsa is a Ph.D. student at the Institute for Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). She received her Diploma in Electrical and Computer Engineering at Aristotle University of Thessaloniki and her Master’s degree in Computer Science at TUM. She was a research assistant at the Interdisciplinary Research Lab (IFL) at TUM, where she also conducted her Master’s thesis. During her Master’s thesis, she focused on employing deep learning to tackle the inverse problem of predicting the speed of sound using ultrasound raw channel data aquired from simulations. Currently, her research interest lies in the field of machine learning in medical imaging, particularly in the fields of feature representation and unsupervised learning.
     </p>
   </div>
 </div>
@@ -212,7 +199,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
 <div class="row speaker" id="spieker">
   <div class="col-sm-3 speaker-pic">
     <a href="https://www.helmholtz-munich.de/en/index.html">
-      <img class="people-pic" src="{{ "/static/img/people/spieker.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/veronika.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.helmholtz-munich.de/en/index.html">Veronika Spieker</a>
@@ -222,7 +209,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
   <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
-    Veronika Spieker is a Ph.D. student at Helmholtz Munich and TUM. Her current research focuses on INRs for k-space reconstruction.
+    Veronika Spieker is a PhD student at the Institute of Machine Learning for Biomedical Imaging (IML) at Helmholtz Munich and Technical University of Munich (TUM). After completing her B.Sc. in engineering at TU Darmstadt and Virginia Tech, she pursued her interest in the medical domain with a M.Sc. in Medical Technologies at TUM. For her PhD project, she works on Physics-Based AI for Motion Correction in Abdominal MRI in collaboration with the Body Magnetic Resonance Group at the Klinikum rechts der Isar. Her research interests include concepts such as neural implicit representations and it’s application to MR reconstruction and motion estimation.
     </p>
   </div>
 </div>
@@ -230,7 +217,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
 <div class="row speaker" id="nil">
   <div class="col-sm-3 speaker-pic">
     <a href="https://www.tum.de/en">
-      <img class="people-pic" src="{{ "/static/img/people/nil.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/nil.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.tum.de/en">Nil Stolt-Anso</a>
@@ -240,7 +227,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
   <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
-    Nil Stolt-Anso is a PhD student at TUM. His current research focuses on the application of Neural Implicit Segmentation Functions (NISF) for cardiac imaging and other applications.
+    Nil Stolt-Ansó is a PhD student at the chair for Artificial Intelligence in Medicine and a member of the Munich Center for Machine Learning (MCML). He studied Artificial Intelligence with a focus on Machine Learning at the University of Amsterdam (UvA), receiving his M.Sc. in 2020. Prior to starting his PhD, Nil worked in the medical imaging industry, focusing on topics such as blood vessel segmentation, myocardial tissue tracking, and cardiac phase modelling. His current interests concern the application of geometric deep learning to imaging tasks.
     </p>
   </div>
 </div> 
@@ -248,7 +235,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
 <div class="row speaker" id="maik">
   <div class="col-sm-3 speaker-pic">
     <a href="https://www.tum.de/en">
-      <img class="people-pic" src="{{ "/static/img/people/maik.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/maik.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://www.tum.de/en">Maik Dannecker</a>
@@ -258,7 +245,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
   <div class="col-md-9">
     <b>Biography</b>
     <p class="speaker-bio">
-    Maik Dannecker is a PhD student at TUM. His current research focuses on the application of INRs for fetal image reconstruction, and is submitted to MICCAI’24.
+    Maik Dannecker is a PhD student at the Artificial Intelligence and Informatics in Medicine at the Technical University of Munich (TUM). He received his Bachelor’s and Master’s degrees in Informatics from TUM. In this Master’s thesis he compared classic and deep learning methods for deformable image registration in CT scans of the lungs. In his PhD he is developing methods for the quantification and prediction of abnormal growth of the brain in fetal MRI.
     </p>
   </div>
 </div>
