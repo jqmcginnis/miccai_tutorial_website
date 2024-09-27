@@ -67,7 +67,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
   <div class="col-xs-12">
     <div class="col-xs-2" id="benedict">
       <a href="https://www.professoren.tum.de/en/wiestler-benedikt">
-        <img class="people-pic" src="{{ "/static/img/people/bene.jpg" | prepend:site.baseurl }}">
+        <img class="people-pic" src="{{ "/static/img/people/bene.png" | prepend:site.baseurl }}">
       </a>
       <div class="people-name">
         <a href="https://www.professoren.tum.de/en/wiestler-benedikt">Benedict Wiestler</a>
@@ -85,7 +85,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
     </div>
     <div class="col-xs-2" id="bjorn">
       <a href="https://www.dqbm.uzh.ch/en/research/menze.html">
-        <img class="people-pic" src="{{ "/static/img/people/bjorn.jpg" | prepend:site.baseurl }}">
+        <img class="people-pic" src="{{ "/static/img/people/bjoern.jpg" | prepend:site.baseurl }}">
       </a>
       <div class="people-name">
         <a href="https://www.dqbm.uzh.ch/en/research/menze.html">Bjoern Menze</a>
