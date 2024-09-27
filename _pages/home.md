@@ -55,6 +55,47 @@ Discover the latest advancements in machine learning tailored for medical imagin
   </div>
 </div>
 
+<br id="advisors">
+<br>
+
+<div class="row">
+  <div class="col-xs-12">
+    <h2>Advisors</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <div class="col-xs-2" id="benedict">
+      <a href="https://www.professoren.tum.de/en/wiestler-benedikt">
+        <img class="people-pic" src="{{ "/static/img/people/bene.jpg" | prepend:site.baseurl }}">
+      </a>
+      <div class="people-name">
+        <a href="https://www.professoren.tum.de/en/wiestler-benedikt">Benedict Wiestler</a>
+        <h6>Technical University of Munich</h6>
+      </div>
+    </div>
+    <div class="col-xs-2" id="daniel">
+      <a href="https://www.professoren.tum.de/rueckert-daniel">
+        <img class="people-pic" src="{{ "/static/img/people/daniel.jpg" | prepend:site.baseurl }}">
+      </a>
+      <div class="people-name">
+        <a href="https://www.professoren.tum.de/rueckert-daniel">Daniel Rueckert</a>
+        <h6>Technical University of Munich</h6>
+      </div>
+    </div>
+    <div class="col-xs-2" id="bjorn">
+      <a href="https://www.dqbm.uzh.ch/en/research/menze.html">
+        <img class="people-pic" src="{{ "/static/img/people/bjorn.jpg" | prepend:site.baseurl }}">
+      </a>
+      <div class="people-name">
+        <a href="https://www.dqbm.uzh.ch/en/research/menze.html">Bjoern Menze</a>
+        <h6>University of Zurich</h6>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 <br id="talks">
 
 <div class="row">
