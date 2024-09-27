@@ -35,7 +35,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
   <div class="col-xs-12">
     <div class="col-xs-2" id="sifei">
       <a href="https://jelmerwolterink.nl/">
-        <img class="people-pic" src="{{ "/static/img/people/jw.jpeg" | prepend:site.baseurl }}">
+        <img class="people-pic" src="{{ "/static/img/people/jelmer.png" | prepend:site.baseurl }}">
       </a>
       <div class="people-name">
         <a href="https://jelmerwolterink.nl/">Jelmer Wolterink</a>
@@ -44,7 +44,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
     </div>
     <div class="col-xs-2" id="jonathan">
       <a href="https://jonathan-schwarz.github.io/">
-        <img class="people-pic" src="{{ "/static/img/people/jonathan.jpeg" | prepend:site.baseurl }}">
+        <img class="people-pic" src="{{ "/static/img/people/jonathan.png" | prepend:site.baseurl }}">
       </a>
       <div class="people-name">
         <a href="https://jonathan-schwarz.github.io/">Jonathan Richard Schwarz</a>
@@ -95,14 +95,12 @@ Discover the latest advancements in machine learning tailored for medical imagin
           <td>09:20 - 10:00</td>
         </tr>
         <tr>
-          <td>Veronika Spieker</td>
-          <td>Applications in rendering and reconstruction/td>
+          <td>Applications in rendering and reconstruction</td>
           <td><a href="https://compai-lab.github.io/author/veronika-spieker/">Veronika Spieker</a></td>
           <td>10:30 - 10:45</td>
         </tr>
         <tr>
-          <td>Suprosanna Shit</td>
-          <td>Applications in segmentation and growth modeling<td>
+          <td>Applications in segmentation and growth modeling</td>
           <td><a href="https://www.dqbm.uzh.ch/en/research/menze/team/team-supro.html">Suprosanna Shit</a></td>
           <td>10:45 - 11:00</td>
         </tr>
@@ -129,7 +127,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
           <td>11:50 - 12:05</td>
         </tr>
         <tr>
-          <td>Helfpul Frameworks to start your research & Future Research Directions</td>
+          <td>Helpful Frameworks to start your research & Future Research Directions</td>
           <td><a href="https://aim-lab.io/author/vasiliki-sideri-lampretsa/">Vasiliki Sideri-Lampretsa</a></td>
           <td>12:05 - 12:30</td>
         </tr>
@@ -137,6 +135,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
     </table>
   </div>
 </div>
+
 
 
 
@@ -151,7 +150,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
 <div class="row speaker" id="mcginnis">
   <div class="col-sm-3 speaker-pic">
     <a href="https://aim-lab.io/author/julian-mcginnis/">
-      <img class="people-pic" src="{{ "/static/img/people/julian1.jpeg" | prepend:site.baseurl }}">
+      <img class="people-pic" src="{{ "/static/img/people/julian.png" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://aim-lab.io/author/julian-mcginnis/">Julian McGinnis</a> <a href="https://twitter.com/jqmcginnis"><img src="{{ "/static/img/Twitter_Social_Icon_Rounded_Square_Color.png" | prepend:site.baseurl }}"></a>
