@@ -27,7 +27,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
 
 <div class="row">
   <div class="col-xs-12">
-    <h2>Speakers</h2>
+    <h2>Invited Guest Speakers</h2>
   </div>
 </div>
 <div class="row">
