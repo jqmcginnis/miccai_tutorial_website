@@ -16,9 +16,23 @@ acknowledgements: ""
   <center><h2>MICCAI 2024 Tutorial on</h2></center>
     <center><h1>Implicit Neural Representations for Medical Imaging>
         <center>Sunday 06 October, 08:00 am - 12:30 pm (GMT+1)<font color="#76b900"></font></center> 
+        <center>MICCAI 2024 <font color="#76b900"> <b><a target="_blank" href="https://conferences.miccai.org/2024/en/tutorials.asp">Microsite</a></b></font></center>
   </div>
 </div>
 <br>
+
+<br>
+<div class="row">
+  <div class="col-xs-12">
+  <center><h2>ECCV 2020 Virtual Tutorial on</h2></center>
+    <center><h1>New Frontiers for Learning with Limited Labels or Data</h1></center>
+        <center><b>Time slot 1</b>: <strike>Saturday 22 August, 5:30 pm - 7:00 pm (PDT)</strike>, <font color="#76b900"><b><a target="_blank" href="https://www.youtube.com/watch?v=n0p1zz0ZFiY">Live Session Recording</a></b></font></center> 
+        <center><b>Time slot 2</b>: <strike>Sunday 23 August, 6:30 am - 8:00 am (PDT)</strike>, <font color="#76b900"><b><a target="_blank" href="https://www.youtube.com/watch?v=mYD783Z-wb8">Live Session Recording</a></b></font></center>
+        <center>ECCV 2020 <font color="#76b900"> <b><a target="_blank" href="https://workshopsandtutorials.eccv2020.eu/papers/category/tutorial-sunday-aug-23/new-frontiers-for-learning-with-limited-labels-or-data/">Microsite</a></b></font>, Pre-recorded talks: Youtube <font color="#76b900"><b><a target="_blank" href="https://www.youtube.com/playlist?list=PLDEjP3Cd-gys9TC1RuboblGzwfsaJ9FxU">Playlist</a></b></font>, Bilibili <font color="#76b900"><b><a target="_blank" href="https://www.bilibili.com/read/cv7268682?share_source=copy_link&share_medium=iphone&bbid=Z34AB836729C35E84416ACBF44A761007D7D&ts=1598042304">Playlist</a></b></font></center>
+  </div>
+</div>
+<br>
+
 
 Discover the latest advancements in machine learning tailored for medical imaging with our upcoming tutorial on Implicit Neural Representations (INR). INRs have shown promise in various computer vision tasks like 3D scene reconstruction, image denoising, superresolution, and compression. In recent years, the medical imaging community has shown increasing interest in the potential of INRs for personalized solutions, spanning tasks like registration, reconstruction, super-resolution, shape modeling, and segmentation. As this interest grows, we’re excited to announce the launch of the inaugural MICCAI tutorial on INRs for medical imaging. This tutorial will offer a comprehensive overview of INR research progress, highlighting key applications in medical imaging and exploring future directions through engaging lectures and practical demonstrations. Join us and learn from experts in the field who are known for their contributions to both computer vision and medical research. Whether you’re an experienced researcher or new to medical imaging, this tutorial promises valuable insights into leveraging INRs for advancements in healthcare.
 
