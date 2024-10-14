@@ -106,6 +106,7 @@ Discover the latest advancements in machine learning tailored for medical imagin
         <tr>
           <th>Title</th>
           <th>Speaker</th>
+          <th></th>
           <th>Live Session</th>
         </tr>
       </thead>
@@ -118,11 +119,13 @@ Discover the latest advancements in machine learning tailored for medical imagin
         <tr>
           <td>An Introduction to INRs and Neural Fields</td>
           <td><a href="https://aim-lab.io/author/julian-mcginnis/">Julian McGinnis</a></td>
+          <td><a target="_blank" href="https://drive.google.com/file/d/1tSbBxJ11j_8NBqQZYV-B7bhKICQg3Ygf/view?usp=sharing">PDF</a></td>
           <td>08:00 - 08:40</td>
         </tr>
         <tr>
           <td>Practical Coding Tutorial - training your first INR</td>
           <td><a href="https://aim-lab.io/author/nil-stolt-anso/">Nil Stolt-Ansó</a></td>
+          <td><a target="_blank" href="https://github.com/INR4MICCAI/INRTutorial">Code</a></td>
           <td>08:40 - 09:20</td>
         </tr>
 
@@ -133,16 +136,19 @@ Discover the latest advancements in machine learning tailored for medical imagin
         <tr>
           <td>In-depth lecture of selected applications in medical imaging</td>
           <td><a href="https://people.utwente.nl/j.m.wolterink">Jelmer Wolterink</a></td>
+          <td><a target="_blank" href="https://github.com/INR4MICCAI/INRTutorial">Code</a></td>
           <td>09:20 - 10:00</td>
         </tr>
         <tr>
           <td>Applications in rendering and reconstruction</td>
           <td><a href="https://compai-lab.github.io/author/veronika-spieker/">Veronika Spieker</a></td>
+          <td><a target="_blank" href="https://drive.google.com/file/d/1tfG_mLEs7MabgJucwFj1nq71Qq4NbIbI/view?usp=sharing">PDF</a></td>
           <td>10:30 - 10:45</td>
         </tr>
         <tr>
           <td>Applications in segmentation and growth modeling</td>
           <td><a href="https://www.dqbm.uzh.ch/en/research/menze/team/team-supro.html">Suprosanna Shit</a></td>
+          <td><a target="_blank" href="https://drive.google.com/file/d/1tfG_mLEs7MabgJucwFj1nq71Qq4NbIbI/view?usp=sharing">PDF</a></td>
           <td>10:45 - 11:00</td>
         </tr>
 
@@ -160,16 +166,19 @@ Discover the latest advancements in machine learning tailored for medical imagin
         <tr>
           <td>Meta-Learning, Compression and Functa</td>
           <td><a href="https://jonathan-schwarz.github.io/">Jonathan Richard Schwarz</a></td>
+          <td><a target="_blank" href="https://drive.google.com/file/d/1BLGMe2z77WK9YieKj3JnMEXjG_Y97WwD/view?usp=sharing">PDF</a></td>
           <td>11:00 - 11:50</td>
         </tr>
         <tr>
           <td>Conditioning INRs with applications to fetal atlas generation</td>
           <td><a href="https://www.kiinformatik.mri.tum.de/de/dannecker-maik">Maik Dannecker</a></td>
+          <td><a target="_blank" href="https://github.com/INR4MICCAI/INRTutorial">Code</a></td>
           <td>11:50 - 12:05</td>
         </tr>
         <tr>
           <td>Helpful Frameworks to start your research & Future Research Directions</td>
           <td><a href="https://aim-lab.io/author/vasiliki-sideri-lampretsa/">Vasiliki Sideri-Lampretsa</a></td>
+          <td><a target="_blank" href="https://github.com/INR4MICCAI/INRTutorial">Code</a></td>
           <td>12:05 - 12:30</td>
         </tr>
       </tbody>
